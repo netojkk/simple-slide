@@ -14,8 +14,8 @@ header {
     color: white;
 }
 .item img {
-    height: 40vh;
-    width: 70vw;
+    height: 50vh;
+    width: 80vw;
 
     border-radius: 10px;
     
@@ -26,16 +26,16 @@ header {
     align-items: center;
     
     margin: 20vh auto;
-    height: 40vh;
-    width: 70vw;
+    height: 50vh;
+    width: 80vw;
 
     background-color: red;
     border-radius: 10px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.363);
 }
 .container-items {
-    height: 40vh;
-    width: 70vw;
+    height: 50vh;
+    width: 80vw;
     
     /* background-color: black; */
     display: flex;
