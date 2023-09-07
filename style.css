@@ -13,6 +13,9 @@ header {
     text-align: center;
     color: white;
 }
+header h1 {
+    padding: 2rem;
+}
 .item img {
     height: 50vh;
     width: 80vw;
@@ -20,12 +23,20 @@ header {
     border-radius: 10px;
     
 }
+main {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
 .container-slide{
     display: flex;
     justify-content: space-between;
     align-items: center;
     
-    margin: 20vh auto;
+    /* margin: 20vh auto; */
     height: 50vh;
     width: 80vw;
 
